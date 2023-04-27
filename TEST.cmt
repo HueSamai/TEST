@@ -4,3 +4,4 @@ Message=https://raw.githubusercontent.com/HueSamai/TEST/master/message
 Links=https://raw.githubusercontent.com/HueSamai/TEST/master/TEST.dll
 LatestVersion=https://raw.githubusercontent.com/HueSamai/TEST/master/version
 CementFile=https://raw.githubusercontent.com/HueSamai/TEST/master/TEST.cmt
+[Editable][String] TestParameter=Test
